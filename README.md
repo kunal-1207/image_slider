@@ -9,8 +9,7 @@ Immerse yourself in a mesmerizing Image slider demo. Experience seamless web des
 
 
 ## Demo
-
-[](https://github.com/kunal-1207/image_slider/assets/66724637/e496aad3-cf09-4761-90eb-eb5f520f958c)
+![Demo:](https://github.com/kunal-1207/image_slider/assets/66724637/33195e5e-5eed-4e49-951a-ce4714620dd6)
 
 
 
