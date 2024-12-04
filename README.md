@@ -25,15 +25,15 @@ Welcome to the Aero Image Slider project! This sleek and modern image slider is 
 
 - Clone this repository to your local machine:
   
-   git clone https://github.com/kunal-1207/image_slider.git
+       git clone https://github.com/kunal-1207/image_slider.git
 
 - Navigate to the project directory:
    
-   cd image_slider
+      cd image_slider
 
 - Open index.html in your browser:
    
-   open index.html
+      open index.html
 
 ## Demo
 ![Demo:](https://github.com/kunal-1207/image_slider/assets/66724637/33195e5e-5eed-4e49-951a-ce4714620dd6)
